@@ -1,8 +1,7 @@
-![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/f9a66873-818b-4446-b944-e7edf416e270)# Note:
-This is not my article, and the code that I wrote is only my own understanding of the concepts explained in the paper.
+## Note: This is not my article, and the code that I wrote is only my own understanding of the concepts explained in the paper.
 
 # Background and objective:
-Automatic segmentation of retinal blood vessels makes a major contribu￾tion in CADx of various ophthalmic and cardiovascular diseases. A procedure to segment thin and thick
+Automatic segmentation of retinal blood vessels makes a major contribution in CADx of various ophthalmic and cardiovascular diseases. A procedure to segment thin and thick
 retinal vessels is essential for medical analysis and diagnosis of related diseases. In this article, a novel
 methodology for robust vessel segmentation is proposed, handling the existing challenges presented in
 the literature.
@@ -17,8 +16,7 @@ post-processing stage
 
 # My results:
 The following image shows the image that I was able to achieve by following the instructions in the article. As it is shown, I couldn't replicate the exact code necessary for the proposed accuracy, but nevertheless, I could reach an acceptable image. 
+![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/b1bae7bc-9dfa-4d51-b8ae-b8857be5a285)
 
 # Instructions:
 In the code directory, you will find two main files. The first "main.py" is used for calculating the actual output for the input RGB image. The only things you need to change are the input RGB image, the mask of the input, and the actual segmented result from a reputable repository such as DRIVE. "final.py" is used for calculating the accuracy and for the final image enhancement.
-![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/b1bae7bc-9dfa-4d51-b8ae-b8857be5a285)
-![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/b1bae7bc-9dfa-4d51-b8ae-b8857be5a285)
