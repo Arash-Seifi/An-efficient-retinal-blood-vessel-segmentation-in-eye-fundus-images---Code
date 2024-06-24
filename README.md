@@ -1,4 +1,4 @@
-![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/f9a66873-818b-4446-b944-e7edf416e270)![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/f9a66873-818b-4446-b944-e7edf416e270)# Note:
+![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/f9a66873-818b-4446-b944-e7edf416e270)# Note:
 This is not my article, and the code that I wrote is only my own understanding of the concepts explained in the paper.
 
 # Background and objective:
@@ -13,7 +13,6 @@ vessels using the proposed optimized top-hat, homomorphic filtering, matched fil
 using the MCET-HHO multilevel algorithm. Finally, morphological image operations are carried out in the
 post-processing stage
 
-![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/d6ee26ef-326d-487b-8344-850536b0afe1)
 ![image](https://github.com/Arash-Seifi/An-efficient-retinal-blood-vessel-segmentation-in-eye-fundus-images---Code/assets/92459590/d6ee26ef-326d-487b-8344-850536b0afe1)
 
 # My results:
